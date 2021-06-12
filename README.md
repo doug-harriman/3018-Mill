@@ -12,6 +12,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
   * Power pass through grommit
   * USB pass through
   * Rear cover, magnets
+* Cable Chain
 * Isolation Pad
 * [CNCjs](https://cnc.js.org/) on Raspi
   * Raspi mount box
