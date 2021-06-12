@@ -24,7 +24,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 
 ## Laser Specific Upgrades
 * [Sainsmart Genmitsu 5.5W Laser Module](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-blue-laser-module-kit)
-* Laser Shield
+* [Laser Shield](https://github.com/doug-harriman/Laser-Shield/blob/main/README.md) - A spindle/laser holder mounted optical shield.
 * Future: Air assist
 * Future: Exhaust fan & ducting
 
