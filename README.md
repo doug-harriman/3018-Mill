@@ -4,9 +4,10 @@ I received a Sainsmart Genmitsu 3018 Pro CNC Mill for Christmas 2020.  This repo
 
 # General Upgrades
 * Sainsmart Enclosure
-** Power pass through grommit
-** USB pass through
-** Rear cover, magnets
+* Enclosure Modifications
+  * Power pass through grommit
+  * USB pass through
+  * Rear cover, magnets
 * Isolation Pad
 * CNCjs on Raspi
 
@@ -19,6 +20,8 @@ I received a Sainsmart Genmitsu 3018 Pro CNC Mill for Christmas 2020.  This repo
 # Laser Specific Upgrades
 * Sainsmart Genmitsu 5.5W Laser Module
 * Laser Shield
+* Future: Air assist
+* Future: Exhaust fan & ducting
 * Process parameter optimization scripts
-** Focus
-** Speed & Power
+  * Focus
+  * Speed & Power
