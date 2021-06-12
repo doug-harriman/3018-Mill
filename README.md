@@ -19,6 +19,9 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 
 ## Milling Specific Upgrades
 * [Spoilboard](https://www.sainsmart.com/collections/genmitsu-cnc-replacement-upgrade-parts/products/genmitsu-cnc-mdf-spoilboard-for-3018-cnc-router-30-x-18-x1-2-cm)
+  * Spoilboard X/Y alignment marking with Laser
+    * [Horizontal](milling/spoilboard-alignment/spoilboard-guide-horizontal.nc)
+    * [Vertical](milling/spoilboard-alignment/spoilboard-guide-vertical.nc)
 * [Homing Touch Plate](milling/homing-plate.md)
 * Tools (endmills, bits)
 
