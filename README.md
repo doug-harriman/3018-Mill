@@ -29,6 +29,9 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 * Future: Exhaust fan & ducting
 
 # Learnings & Tools
+## General
+* Online G-Code viewer/simulator [NC Viewer](https://ncviewer.com/)
+
 ## Milling
 * Speed fix utility for Fusion360 tooling paths.
 * Materials, Speeds & Feeds
