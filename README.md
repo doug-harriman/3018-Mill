@@ -19,7 +19,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 
 ## Milling Specific Upgrades
 * [Spoilboard](https://www.sainsmart.com/collections/genmitsu-cnc-replacement-upgrade-parts/products/genmitsu-cnc-mdf-spoilboard-for-3018-cnc-router-30-x-18-x1-2-cm)
-* [Homing Touch Plate](homing-plate.md)
+* [Homing Touch Plate](milling/homing-plate.md)
 * Tools (endmills, bits)
 
 ## Laser Specific Upgrades
@@ -34,7 +34,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 * Materials, Speeds & Feeds
 
 ## Laser
-* Materials, Speeds & Power
+* [Materials, Speeds & Power](laser/speed-power.md)
 * Process parameter optimization scripts
   * Focus
   * Speed & Power
