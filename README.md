@@ -45,3 +45,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 * Process parameter optimization scripts
   * Focus
   * Speed & Power
+* Inkscape for artwork 
+  * Lasertools Extension for G-Code generation
+    * Line art convert to paths with "Stroke to Path"
+    * Text convert to paths with "Object to Path"
