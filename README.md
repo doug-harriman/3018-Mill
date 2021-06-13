@@ -10,8 +10,12 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
  
 * Enclosure Modifications
   * Power pass through grommit
+    * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B06Y5HGYK2/)
   * USB pass through
+    * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B079957VC3/)
   * Rear cover, magnets
+   * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B07KJ9H31P)
+   * Would recommend going with something thicker or wider for increased hold force.  
 * [Cable Chain](https://www.thingiverse.com/thing:2775316)
 * Isolation Pad
 * [CNCjs](https://cnc.js.org/) on Raspi
@@ -24,13 +28,14 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
     * [Horizontal](milling/spoilboard-alignment/spoilboard-guide-horizontal.nc)
     * [Vertical](milling/spoilboard-alignment/spoilboard-guide-vertical.nc)
 * [Homing Touch Plate](milling/homing-plate.md)
-* Tools (endmills, bits)
 
 ## Laser Specific Upgrades
 * [Sainsmart Genmitsu 5.5W Laser Module](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-blue-laser-module-kit)
 * [Laser Shield](https://github.com/doug-harriman/Laser-Shield/blob/main/README.md) - A spindle/laser holder mounted optical shield.
 * Future: Air assist
 * Future: Exhaust fan & ducting
+  * [Large Fan](https://www.amazon.com/gp/product/B07PHT5SM6/)
+  * [Exhaust Wall Vent](https://www.amazon.com/gp/product/B01MA52QXF/) 
 
 # Learnings & Tools
 ## General
