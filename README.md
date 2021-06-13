@@ -12,7 +12,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
   * Power pass through grommit
   * USB pass through
   * Rear cover, magnets
-* Cable Chain
+* [Cable Chain](https://www.thingiverse.com/thing:2775316)
 * Isolation Pad
 * [CNCjs](https://cnc.js.org/) on Raspi
   * Raspi mount box
@@ -39,6 +39,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 ## Milling
 * Speed fix utility for Fusion360 tooling paths.
 * Materials, Speeds & Feeds
+* [Tools/Bits](tool-n-bits/tools-n-bits.md)
 
 ## Laser
 * [Materials, Speeds & Power](laser/speed-power.md)
