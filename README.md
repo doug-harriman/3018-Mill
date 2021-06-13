@@ -12,6 +12,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
   * Power pass through grommit
   * USB pass through
   * Rear cover, magnets
+* [Cable Chain](https://www.thingiverse.com/thing:2775316)
 * Isolation Pad
 * [CNCjs](https://cnc.js.org/) on Raspi
   * Raspi mount box
@@ -38,9 +39,15 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 ## Milling
 * Speed fix utility for Fusion360 tooling paths.
 * Materials, Speeds & Feeds
+* [Tools/Bits](tool-n-bits/tools-n-bits.md)
 
 ## Laser
 * [Materials, Speeds & Power](laser/speed-power.md)
 * Process parameter optimization scripts
   * Focus
   * Speed & Power
+* [Inkscape](https://inkscape.org/) for all artwork 
+  * [Lasertools Extension](https://github.com/ChrisWag91/Inkscape-Lasertools-Plugin) for G-Code generation
+  * All Inkscape objects must be converted to paths before running Lasertools.  A few key tips on conversion:
+    * Line art convert to paths with "Stroke to Path"
+    * Text convert to paths with "Object to Path"
