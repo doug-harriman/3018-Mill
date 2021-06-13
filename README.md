@@ -45,7 +45,8 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 * Process parameter optimization scripts
   * Focus
   * Speed & Power
-* Inkscape for artwork 
-  * Lasertools Extension for G-Code generation
+* [Inkscape](https://inkscape.org/) for all artwork 
+  * [Lasertools Extension](https://github.com/ChrisWag91/Inkscape-Lasertools-Plugin) for G-Code generation
+  * All Inkscape objects must be converted to paths before running Lasertools.  A few key tips on conversion:
     * Line art convert to paths with "Stroke to Path"
     * Text convert to paths with "Object to Path"
