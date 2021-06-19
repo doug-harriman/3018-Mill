@@ -1,7 +1,8 @@
 # Laser Speed & Power Setting Optimization
 
-* [Test pattern G-Code generator](https://github.com/doug-harriman/gcode-utilities/blob/main/gcode_doc.py)
-* [Images for all speed/power tests](speed-power-images/).  
+|||
+|-|-|
+| ![Test Example Image](speed-power-images/cardboard-natural-small.jpg)  | This page provides speed and power setting optimization test results for the Sainsmart 5.5W laser on a variety of materials.  Test patterns were generated with the Python [test pattern G-Code generator](https://github.com/doug-harriman/gcode-utilities/blob/main/gcode_doc.py).  Images for all tests are stored in the [speed-power-images](speed-power-images/) directory.  Results that have been analyzed are in the table below. |
 
 | Material & Image Link | Vector Outline Power/Speed | Vector Infill Power/Speed | Notes |
 | :-------------------- | :------------------: | :-----------------: | :---- |
