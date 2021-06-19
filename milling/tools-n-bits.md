@@ -57,16 +57,31 @@ Note: Feeds and Speeds page links to this page for specific tools used.
 * Notes: Tried these once, but not on correct material.  Made a lot of dust.  Will reassess at some point.
 
 # Other & Specialty
+## Collets
+### ER11 1/4" Collet
+* Purchase: [Amazon](https://www.amazon.com/gp/product/B07GNLNF92)
+* Notes: Ordered, has not arrived
+*
+## Facing
+### 1" Diameter Facing Bit
+* Purchase: [Amazon](https://www.amazon.com/dp/B083TKK3VC/)
+* Notes: Ordered, has not arrived.
+
 ## Slotting
 ### Dremel 199 Carving Bit
 * Purchase: [Amazon](https://www.amazon.com/gp/product/B00004UDGP/)
 * Notes: Have not used yet.
 
+### Amana Tool 53406 Slotting Cutter
+* Purchase: [Amazon](https://www.toolstoday.com/v-6137-53406.html)
+* Notes: Ordered, has not arrived.
+
+## Drills
+### Sainsmart Miniature Drill Bit Set
+* Purchase: [Amazon](https://www.amazon.com/gp/product/B08M5PLF48)
+* Notes: Ordered, has not arrived
+
 # Wish List
-* [ER11 1/4" collet](https://www.amazon.com/gp/product/B07GNLNF92/ref=ox_sc_act_title_3?smid=A35YY1HIT0MQFT&psc=1)
-* [Radius bit(s)](https://www.amazon.com/gp/product/B07QFHQYP7/ref=ox_sc_act_title_1?smid=A11FFAI6NLKR0R&psc=1)
-* [Slotting bit](https://www.toolstoday.com/v-6137-53406.html)
-* [1" Facing bit](https://www.amazon.com/dp/B083TKK3VC/)
+* [Radius bit(s)](https://www.amazon.com/gp/product/B07QFHQYP7)
 * Diamond scribing bit, spring loaded
 * Spring loaded collet for v-bit to remove soldermask
-* [1/8" shank drill set](https://www.amazon.com/gp/product/B08M5PLF48/ref=ox_sc_act_title_2?smid=A1CJB5SYI9X4XC&psc=1).
