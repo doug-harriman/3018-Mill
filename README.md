@@ -45,7 +45,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 * Speed fix utility for Fusion360 tooling paths.
 * [Speeds & Feeds](milling/feeds-n-speeds.md)
 * [Tools/Bits](milling/tools-n-bits.md)
-* [SolidWorks CAM](solidworks-cam.md)
+* [SolidWorks CAM](milling/solidworks-cam.md)
 
 ## Laser
 * [Materials, Speeds & Power](laser/speed-power.md)
