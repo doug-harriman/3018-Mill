@@ -40,6 +40,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 # Learnings & Tools
 ## General
 * Online G-Code viewer/simulator [NC Viewer](https://ncviewer.com/)
+* https://softsolder.com/2019/08/22/cnc-3018-pro-grbl-configuration/
 
 ## Milling
 * Speed fix utility for Fusion360 tooling paths.
