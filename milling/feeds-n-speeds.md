@@ -2,6 +2,15 @@
 
 Note: All units in millimeters and millimeters per minute unless otherwise noted.
 
+## 300 Watt Spindle
+
+| Material | Tool | Feed Rate | Depth of Cut |  Stepover | Direction | Notes |
+| -------- | ---  | --------- | ------------ | ----------------- | ------------------ | ----- |
+| Wood, Black Walnut | [3.175 mm flat end mill, 2-flute upcut](tools-n-bits.md#3175mm-dia-2-flute-upcut-carbide)| 1000 | 2.0 | 1.4 | Climb/Left Hand |
+
+
+## 3018 Pro Stock Spindle
+
 | Material | Tool | Feed Rate | Depth of Cut |  Stepover | Direction | Notes |
 | -------- | ---  | --------- | ------------ | ----------------- | ------------------ | ----- |
 | Wood, Pine         | [3.175 mm flat end mill, 2-flute upcut](tools-n-bits.md#3175mm-dia-2-flute-upcut-carbide)| 300 | TBD | TBD | Climb/Left Hand |
