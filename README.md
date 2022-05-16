@@ -47,6 +47,7 @@ I received a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/co
 * [Speeds & Feeds](milling/feeds-n-speeds.md)
 * [Tools/Bits](milling/tools-n-bits.md)
 * [SolidWorks CAM](milling/solidworks-cam.md)
+* [PCB Probe & G-Code File Modification](https://github.com/martin2250/OpenCNCPilot)
 
 ## Laser
 * [Materials, Speeds & Power](laser/speed-power.md)
