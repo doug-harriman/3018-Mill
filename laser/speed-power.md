@@ -18,3 +18,4 @@
 | :-------- | :------------: | :-----------: | :----: | :-------: | :---- |
 | 1.4 mm Brown Leather | 80% | 80 | 6 | 0.25 | Taped on both sides. Top minizes burn marks, bottom holds flat. | 
 | 2.0 mm Cardboard | 80% | 320 | 3 | 1.0 | 1 pass per mm + a finish pass at bottom. |
+| 3.0 mm Foamboard | 80% | 320 | 1 | 1.0 |  |
