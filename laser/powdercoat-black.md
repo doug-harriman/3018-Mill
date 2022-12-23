@@ -7,7 +7,7 @@
 * Depths range from 0.1 mm (laebeled "1") to 1.0 mm (labeled "0") 
 * Widths on same range
 
-![Slot Test](powdercoat-slot-test.jpg)
+<img src="./powdercoat-slot-test.jpg" width="300" height="300 ">
 
 Optimals
 
