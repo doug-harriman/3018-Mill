@@ -14,9 +14,16 @@ Aluminum parameter recommendations per [Reddit post](https://www.reddit.com/r/ho
 
 (converted from English to metric)
 
+Used "Tap Magic" cutting fluid with cut.
+
 | Material | Tool | Feed Rate (mm/min) | Depth of Cut (mm) |  Stepover (mm) | Direction | Notes |
 | -------- | ---  | --------- | ------------ | ----------------- | ------------------ | ----- |
-| 6061 Aluminum | 3.175mm 2-flute upcut stub | 500 | 2.5 | 0.25 | Climb ||
+| 6061 Aluminum | 3.175mm 2-flute upcut stub | 500 | 0.75 | 0.25 | Climb |Worked well with adaptive clearing|
+
+To test:
+- Faster: 750 mm/min
+- Deeper: 1.5, 2.5
+- Stepover: 0.5
 
 ## 3018 Pro Stock Spindle
 
