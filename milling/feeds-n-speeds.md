@@ -30,10 +30,14 @@ Used "Tap Magic" cutting fluid with cut.
 |6|	6|	1|	1.00|	0.25|	750|	187.5||
 |7|	6|	1|	1.00|	0.50|	750|	375||
 
-To test:
-- Faster: 750 mm/min
-- Deeper: 1.5, 2.5
-- Stepover: 0.5
+Material Removal Rate [mm^3/min]
+93.75
+125.00
+187.50
+187.50
+250.00
+187.50
+375.00
 
 ## 3018 Pro Stock Spindle
 
