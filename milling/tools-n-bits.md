@@ -24,7 +24,7 @@ Note: Feeds and Speeds page links to this page for specific tools used.
 
 ## Recommended by Mike Fairchild for Aluminum
 
-* Single flute 1/8": [Amazon]([https://www.amazon.com/gp/product/B00OULOEY8](https://www.amazon.com/Amana-Tool-HSS1620-Aluminum-Cutting/dp/B071X6L2WS?th=1))
+* Single flute 1/8": [Amazon](https://www.amazon.com/Amana-Tool-HSS1620-Aluminum-Cutting/dp/B071X6L2WS?th=1)
 
  
 ## Ball
