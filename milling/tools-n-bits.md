@@ -21,6 +21,11 @@ Note: Feeds and Speeds page links to this page for specific tools used.
 ### 1/8" dia Stub, 2-Flute, Upcut, Carbide
 * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B00OULOEY8)
 * Notes: Purchased for Aluminum milling.  Due to failures with other tools, have not used. 
+
+## Recommended by Mike Fairchild for Aluminum
+
+* Single flute 1/8": [Amazon]([https://www.amazon.com/gp/product/B00OULOEY8](https://www.amazon.com/Amana-Tool-HSS1620-Aluminum-Cutting/dp/B071X6L2WS?th=1))
+
  
 ## Ball
 ### 1.0mm dia, 2-Flute, Upcut, Carbide
