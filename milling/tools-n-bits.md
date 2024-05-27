@@ -20,7 +20,7 @@ Note: Feeds and Speeds page links to this page for specific tools used.
 
 ### 1/8" dia Stub, 2-Flute, Upcut, Carbide
 * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B00OULOEY8)
-* Notes: Purchased for Aluminum milling.  Due to failures with other tools, have not used. 
+* Notes: Purchased for Aluminum milling.  Works very well.  See [feeds and speeds](feeds-n-speeds.md) for details. 
 
 ## Recommended by Mike Fairchild for Aluminum
 
@@ -65,12 +65,10 @@ Note: Feeds and Speeds page links to this page for specific tools used.
 ## Collets
 ### ER11 1/4" Collet
 * Purchase: [Amazon](https://www.amazon.com/gp/product/B07GNLNF92)
-* Notes: Ordered, has not arrived
-*
+
 ## Facing
 ### 1" Diameter Facing Bit
 * Purchase: [Amazon](https://www.amazon.com/dp/B083TKK3VC/)
-* Notes: Ordered, has not arrived.
 
 ## Slotting
 ### Dremel 199 Carving Bit
@@ -79,12 +77,10 @@ Note: Feeds and Speeds page links to this page for specific tools used.
 
 ### Amana Tool 53406 Slotting Cutter
 * Purchase: [Amazon](https://www.toolstoday.com/v-6137-53406.html)
-* Notes: Ordered, has not arrived.
 
 ## Drills
 ### Sainsmart Miniature Drill Bit Set
 * Purchase: [Amazon](https://www.amazon.com/gp/product/B08M5PLF48)
-* Notes: Ordered, has not arrived
 
 # Wish List
 * [Radius bit(s)](https://www.amazon.com/gp/product/B07QFHQYP7)
