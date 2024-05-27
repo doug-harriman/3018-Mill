@@ -14,7 +14,9 @@ Aluminum parameter recommendations per [Reddit post](https://www.reddit.com/r/ho
 
 (converted from English to metric)
 
-Used "Tap Magic" cutting fluid with cut.
+Cutting fluid:
+* Originally used "Tap Magic" dropped on by hand periodically.
+* Also used hand sprayed and mounted mister sprayed isopropyl alcohol.  Fumes are an issue, but no cleanup required.
 
 | Material | Tool | Feed Rate (mm/min) | Depth of Cut (mm) |  Stepover (mm) | Direction | Notes |
 | :-: | :-:  | :-: | :-: | :-: | :-: | ----- |
@@ -25,19 +27,10 @@ Used "Tap Magic" cutting fluid with cut.
 |1|	6|	3|	0.75|	0.25|	500|	93.75||
 |2|	6|	1|	1.00|	0.25|	500|	125||
 |3|	6|	1.5|	1.50|	0.25|	500|	187.5||
-|4|	6|	0.75|	0.75|	0.50|	500|	187.5||
+|4|	6|	0.75|	0.75|	0.50|	500|	187.5| Worked best|
 |5|	6|	1|	1.00|	0.50|	500|	250||
 |6|	6|	1|	1.00|	0.25|	750|	187.5||
 |7|	6|	1|	1.00|	0.50|	750|	375||
-
-Material Removal Rate [mm^3/min]
-93.75
-125.00
-187.50
-187.50
-250.00
-187.50
-375.00
 
 ## 3018 Pro Stock Spindle
 
