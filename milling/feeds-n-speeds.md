@@ -8,7 +8,7 @@ Note: All units in millimeters and millimeters per minute unless otherwise noted
 | :-: | :-:  | :-: | :-: | :-: | :-: | ----- |
 | Wood, Black Walnut | [3.175 mm flat end mill, 2-flute upcut](tools-n-bits.md#3175mm-dia-2-flute-upcut-carbide)| 1000 | 2.0 | 1.4 | Climb/Left Hand |
 
-### Untested
+### Aluminum
 
 Aluminum parameter recommendations per [Reddit post](https://www.reddit.com/r/hobbycnc/comments/1c5xfdf/genmitsu_3020_zaxis_500w_upgrade_vs_6061/)
 
