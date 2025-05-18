@@ -15,6 +15,10 @@ Replaced spade connectors on PCA end with JST-XH 2-pin connector.
 * [Connector & Crip Tool Kit](https://www.amazon.com/gp/product/B07ZK5F8HP/)
 * $40 USD at time of purchase.
 
+Connection:
+
+<img src="images/z-probe-connection.png" alt="Connection to PCA" width="504" height="672">
+
 # Homing Alg
 * Implemented as macro in [CNCjs](https://cnc.js.org/)
 * [CNCjs macro docs](https://github.com/cncjs/CNCjs-Macros).
